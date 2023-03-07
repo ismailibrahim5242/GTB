@@ -1,0 +1,19 @@
+div{
+    width: 500px;
+    height: 500px;
+    background-color: orangered;
+    padding: 18px;
+    margin: auto;
+}
+section{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    margin-left: 320px;
+    margin-top: 50px;
+}
+h1{
+    color: white;
+    font-size: 110px;
+    padding-bottom: 10px;
+}
